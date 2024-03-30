@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @av1429
+- 👋 Hi, I’m Aravinth
 - 👀 I’m interested in Tech and Electronics
 - 🌱 I’m currently learning ECE(Cyber Physical Systems) with Minor Specilisation in Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on AI, ML, DL and even Electronics
